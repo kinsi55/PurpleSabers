@@ -1,0 +1,13 @@
+﻿{
+	"id": "PurpleSabers",
+	"name": "PurpleSabers",
+	"author": "Kinsi55",
+	"version": "0.0.1",
+	"description": "",
+	"gameVersion": "1.18.0",
+	"dependsOn": {
+		"BSIPA": "^4.0.5",
+		"SiraUtil": "^3.1.2",
+		"BeatSaberMarkupLanguage": "^1.6.10"
+	}
+}
